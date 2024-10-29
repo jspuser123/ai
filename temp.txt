@@ -1,0 +1,13 @@
+Permission.RECORD_AUDIO
+
+
+
+from plyer import audio
+
+
+audio.start()
+# listen fun
+audio.stop()
+#stop fun
+audio.play()
+#play fun
